@@ -1,0 +1,107 @@
+
+---Downloaded files---
+The import files for: Shopping Cart Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://localhost/afmediatech
+Data file = C:\xampp\htdocs\afmediatech/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart.wordpress.xml
+Widget file = C:\xampp\htdocs\afmediatech/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-widgets.wie
+Customizer file = C:\xampp\htdocs\afmediatech/wp-content/themes/shoppingcart/inc/tgm/dummy/shoppingcart-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+Cari - No Title - Imported
+TF: Popular Posts - No Title - Imported
+Arsip - No Title - Imported
+Kategori - No Title - Imported
+Meta - No Title - Imported
+
+Top Header Info : 
+
+Teks - No Title - Imported
+
+Advertisement Banner One : 
+
+Gambar - No Title - Imported
+
+Shopping Cart Template : 
+
+TF: Product Grid Column Widget - Best Selling Products - Imported
+Daftar produk - Products - Imported
+TF: Product Grid Column Widget - Featured Products - Imported
+Daftar Produk menurut Peringkat - Top rated products - Imported
+TF: Product Grid Column Widget - New Arrival Product - Imported
+
+Contact Page Sidebar : 
+
+HTML Khusus - Contact Info - Imported
+
+WooCommerce Sidebar : 
+
+Kategori Produk - Product categories - Imported
+Penyaring Produk Aktif - Active filters - Imported
+Saring Produk menurut Harga - Filter by price - Imported
+Daftar produk - Products - Imported
+Awan Tag Produk - Product tags - Imported
+
+ ShoppingCart Template Footer Column 1 : 
+
+Daftar produk - Featured Products - Imported
+
+ ShoppingCart Template Footer Column 2 : 
+
+Daftar produk - On Sale Products - Imported
+
+ ShoppingCart Template Footer Column 3 : 
+
+Daftar produk - All Products - Imported
+
+ ShoppingCart Template Footer Column 4 : 
+
+Daftar produk - Products - Imported
+
+Footer Column 1 : 
+
+Teks - No Title - Imported
+
+Footer Column 2 : 
+
+HTML Khusus - We Accept - Imported
+
+Footer Column 3 : 
+
+HTML Khusus - Shop Location - Imported
+
+Footer Column 4 : 
+
+Gambar - Download App - Imported
+Gambar - No Title - Imported
+
+Max Mega Menu Widgets : 
+
+Daftar produk - Products - Imported
+Teks - No Title - Imported
+Daftar produk - Products - Imported
+Teks - No Title - Imported
+Max Mega Menu - No Title - Imported
+Menu Navigasi - No Title - Imported
+Gambar - Featured Product - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
